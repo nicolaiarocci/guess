@@ -1,4 +1,12 @@
-# This is a guess the number game
+# -*- coding: utf-8 -*-
+"""
+    Guess the Number
+    ~~~~~~~~~~~
+    Coded by Giulia at age 9
+
+    :copyright: (c) 2013 by Nicola Iarocci.
+    :license: BSD, see LICENSE for more details.
+"""
 import random
 
 guesses_taken = 0
